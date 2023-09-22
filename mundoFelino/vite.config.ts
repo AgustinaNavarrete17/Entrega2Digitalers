@@ -4,5 +4,5 @@ import { svelte } from '@sveltejs/vite-plugin-svelte'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [svelte()],
-  base: '/Entrega2Digitalerss/'
+  base: 'https://AgustinaNavarrete17.github.io/Entrega2Digitalers/',
 })
