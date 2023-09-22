@@ -24,7 +24,7 @@
                 </div>
              <div class="justify-end flex basis-1/3 mt-10 mr-4">
                  <nav class="space-x-3">
-                    <Link to="/Entrega2Digitalerss">Inicio</Link>
+                    <Link to="/">Inicio</Link>
                     <Link to="/Alimentacion">Alimentación</Link>
                     <Link to="/Salud">Salud</Link>
                     <Link to="/Comportamiento">Comportamiento</Link>
@@ -33,7 +33,7 @@
             </div>
         </header>
     
-          <Route path="/Entrega2Digitalerss"><Inicio /></Route>
+          <Route path="/"><Inicio /></Route>
           <Route path="/Alimentacion"><Alimentacion /></Route>
           <Route path="/Salud"><Salud /></Route>
           <Route path="/Comportamiento"><Comportamiento /></Route>
